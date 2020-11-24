@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinMSSQL1", "WinMSSQL1\WinMSSQL1.csproj", "{8D0D4515-F202-477A-BDE2-CA3A16035023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSSQL_DAC1", "MSSQL_DAC1\MSSQL_DAC1.csproj", "{0FFB9FA5-34D7-4D90-A16D-D0716A3B35E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSSQL_VO1", "MSSQL_VO1\MSSQL_VO1.csproj", "{799DB980-2DF8-42FB-9305-C39446394450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D0D4515-F202-477A-BDE2-CA3A16035023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0D4515-F202-477A-BDE2-CA3A16035023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0D4515-F202-477A-BDE2-CA3A16035023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0D4515-F202-477A-BDE2-CA3A16035023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FFB9FA5-34D7-4D90-A16D-D0716A3B35E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFB9FA5-34D7-4D90-A16D-D0716A3B35E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFB9FA5-34D7-4D90-A16D-D0716A3B35E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFB9FA5-34D7-4D90-A16D-D0716A3B35E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799DB980-2DF8-42FB-9305-C39446394450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799DB980-2DF8-42FB-9305-C39446394450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799DB980-2DF8-42FB-9305-C39446394450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799DB980-2DF8-42FB-9305-C39446394450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31302C65-4426-4590-A1FF-C299107566E2}
+	EndGlobalSection
+EndGlobal
